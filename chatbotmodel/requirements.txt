@@ -10,3 +10,4 @@ fastembed
 reportlab
 matplotlib
 seaborn
+python-multipart
