@@ -7,3 +7,4 @@ pdfplumber
 PyCharacterAI
 groq
 fastembed
+reportlab
