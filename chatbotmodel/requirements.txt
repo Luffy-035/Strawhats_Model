@@ -9,3 +9,4 @@ groq
 fastembed
 reportlab
 matplotlib
+seaborn
