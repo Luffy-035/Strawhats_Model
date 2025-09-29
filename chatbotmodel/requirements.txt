@@ -4,3 +4,4 @@ pydantic
 numpy
 python-dotenv
 pdfplumber
+PyCharacterAI
